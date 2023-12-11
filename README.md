@@ -1,3 +1,3 @@
 # crane_boom_end_localization
-The red points are the result of camera positioning.
-The blue points are the camera poses used for point cloud reconstruction.
+The red points are the result of the camera's online localization and the blue points are the camera poses used to reconstruct the point cloud.
+# Simulation_platform_demo
